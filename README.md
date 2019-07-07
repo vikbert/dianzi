@@ -1,5 +1,9 @@
 # 每天记录一个点子
 
+## 2019-07-07 life calendar
+如果我们把每一天都填充成一个格子，同时我们假定自己能够活到80岁，那么我们可以利用的时间，就是非常有限和可见的。
+将所剩下的天数图形化。
+
 ## 2019-05-23 markdown 转制时间表
 
 使用 markdown 定义今天会议的流程，让后自动生成今天的时间安排表。
@@ -7,6 +11,12 @@
 - 时间日程列表
 - 自动滚动的时间轴
 - 可以查看单个 event 的具体信息
+
+🔥[**GitHub**] markdonw timeline format and toolkit <br>
+<https://github.com/azu/mdline>
+
+🔥[**Article**] schedule template <br>
+<https://codyhouse.co/gem/schedule-template>
 
 ## 2019-05-23 团队内部的图书管理
 
