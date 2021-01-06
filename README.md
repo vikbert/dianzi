@@ -1,7 +1,7 @@
 # 每天记录一个点子
 
 ## symfony training 
-> 2021
+> 2021-03-05 
 
 
 ## Code tinder
