@@ -4,7 +4,7 @@
 > 2021-03-05 
 
 - symfony RESTful API
-- 
+- react with SSR
 
 
 ## Code tinder
