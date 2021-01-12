@@ -5,6 +5,7 @@
 
 - symfony RESTful API
 - react with SSR
+- Clean architecture
 
 
 ## Code tinder
