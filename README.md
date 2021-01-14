@@ -6,6 +6,10 @@
 - symfony RESTful API
 - react with SSR
 - Clean architecture
+- React Query
+
+## Symfony component dojo
+> 2021-03-05
 
 
 ## Code tinder
