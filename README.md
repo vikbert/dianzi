@@ -1,5 +1,11 @@
 # 每天记录一个点子
 
+## write a svelete package for code editor with highlighting
+> 2021-02-01
+
+see 
+https://medv.io/codejar/
+
 ## Checklist App
 > 2020-01-13
 
