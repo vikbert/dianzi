@@ -1,5 +1,11 @@
 # 每天记录一个点子
 
+## svelte + weui
+> 2021-02-07
+
+开发介于weui和svelte的移动开发UI组建。 起点基于另外一个开源
+<https://github.com/vikbert/svelte-wx-ui>
+
 ## write a svelete package for code editor with highlighting
 > 2021-02-01
 
