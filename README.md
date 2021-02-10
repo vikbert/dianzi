@@ -1,5 +1,12 @@
 # 每天记录一个点子
 
+## GitHub Avatar bookmarker
+> 2021-02-10
+
+bookmark the github avatar
+![](docs/github-card.png)
+
+
 ## svelte + weui
 > 2021-02-07
 
