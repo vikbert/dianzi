@@ -1,5 +1,16 @@
 # 每天记录一个点子
 
+## Code tinder
+> 2021-02-11
+
+show a code snippet as Card, then the user can click ❌ or ✅
+to vote the code, or add the comment to apply the comment to the snippets.
+
+- Vote the card
+- subscribe the tinder, if the new code snipptes need to be reviewed
+- ranking the most best code 
+- ranking the most bad code
+
 ## GitHub Avatar bookmarker
 > 2021-02-10
 
