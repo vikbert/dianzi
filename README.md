@@ -1,5 +1,14 @@
 # 每天记录一个点子
 
+## build react UI by using ion.css
+[ion css](https://github.com/vikbert/ion)
+
+## build the react boilerplate with schwarz core UI
+- build the application with this react boilerplate
+- draw the architecture of it
+- customization for using core UI
+
+
 ## symfony training 
 > 2021-03-05 
 
